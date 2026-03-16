@@ -41,5 +41,5 @@ Insight generation from datasets
 📷 Dashboard Preview
 
 Below is a screenshot of the interactive dashboard created as part of my Power BI practice project.
-
+https://github.com/simrangupta2000/Practice_Dashboard/blob/main/Practice_dashboardView.png
 
